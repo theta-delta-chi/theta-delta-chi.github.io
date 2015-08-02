@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Theta Delta Chi
+tagline:          'Theta Deuteron Charge'
+description:      'TDCs new website. Wordpress is *sooo* not MIT.'
+url:              http://theta-delta-chi.github.io
+
+author:
+  name:           'Theta Delta Chi Net Geeks'
+  url:            https://github.com/theta-delta-chi/
+
+paginate:         5
+
+# Custom vars
+
+github:
+  repo:           https://github.com/theta-delta-chi/theta-delta-chi.github.io
